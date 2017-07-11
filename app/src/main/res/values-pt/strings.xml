@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Apenas Java</string>
+    <string name="add_chocolate">Adicionar chocolate?</string>
+    <string name="add_whipped_cream">Adicionar chantili?</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="client_name">Nome do cliente</string>
+    <string name="just_java_order_for">Pedido Just Java para</string>
+    <string name="order">Pedido</string>
+    <!--
+      Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
+      user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_name">Nombre: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="quantity">Quantidade</string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="the_maximum_quantity_is">A quantidade máxima é</string>
+    <string name="the_minimum_quantity_is">A quantidade mínima é</string>
+    <string name="toppings">Coberturas</string>
+    <string name="total">Total: $</string>
+    <string name="whipped_cream">Chantili</string>
+</resources>
